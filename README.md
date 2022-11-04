@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🏄‍♂️ KingCosmic
+# 🏄‍♂️ Austyn Studdard
 
 **`Digital Craftsman (Developer/Creator)`**
 
@@ -48,14 +48,14 @@ I'm an indie full-stack developer building my dream life one project at a time. 
 
 ### 📊 Stats
 
-![KingCosmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingCosmic&show_icons=true&theme=gruvbox)
+![Austyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingCosmic&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KingCosmic&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 <details>
- <summary><h3>👨‍💻 KingCosmics's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Austyn's Coding Journey</h3></summary>
    TODO:
 
 [website]: https://kingcosmic.com
