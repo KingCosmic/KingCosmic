@@ -48,7 +48,7 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://austynstuddard.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/AustynStuddard-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/kingcosm1c" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/austynstuddard/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<p><a href="https://austynstuddard.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/kingcosm1c" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/austynstuddard/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
