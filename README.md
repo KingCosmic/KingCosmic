@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning `Fastify`
 
-- 👯 I’m looking to collaborate on `Dev Projects`
+- 👯 I’m looking to collaborate on `Game Jams`
 
 - 💬 Ask me about anything, Except Math :sweat_smile:
 
