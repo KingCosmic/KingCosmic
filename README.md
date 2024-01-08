@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Austyn Studdard, otherwise known as KingCosmic or Cosmic</h1>
+<h1 align="center">Hello I'm Austyn Studdard, otherwise known as KingCosmic</h1>
 
  <br/>
 
