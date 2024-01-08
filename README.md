@@ -2,8 +2,6 @@
 
  <br/>
 
- **[My Website](https://austynstuddard.com/)**
-
 ## 👨🏻‍💻 About Me:
 
 - 🌱 I’m currently learning `Fastify`
